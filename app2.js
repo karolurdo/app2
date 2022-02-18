@@ -18,7 +18,7 @@ const addItems = (e) => {
     }
 }
 addedItems.push(addItem);
-console.log(addedItems);
+// console.log(addedItems);
 }
 
 const clean = () => {
